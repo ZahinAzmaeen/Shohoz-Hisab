@@ -1,0 +1,526 @@
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.exe
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.deps.json
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.runtimeconfig.json
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.runtimeconfig.dev.json
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.pdb
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.Views.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.Views.pdb
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Application.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Data.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Application.pdb
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Data.pdb
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csprojAssemblyReference.cache
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorAssemblyInfo.cache
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorAssemblyInfo.cs
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.AssemblyInfoInputs.cache
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.AssemblyInfo.cs
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.TagHelpers.input.cache
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.TagHelpers.output.cache
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorCoreGenerate.cache
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorTargetAssemblyInfo.cs
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.Views.pdb
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csproj.CopyComplete
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\Hello.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\Hello.WebApi.StaticWebAssets.xml
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.pdb
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.genruntimeconfig.cache
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.exe
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.deps.json
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.runtimeconfig.json
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.runtimeconfig.dev.json
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.pdb
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.Views.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.Views.pdb
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Application.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Data.dll
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Application.pdb
+E:\OrderSystemPJ\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Data.pdb
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csprojAssemblyReference.cache
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.AssemblyInfoInputs.cache
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.AssemblyInfo.cs
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csproj.CoreCompileInputs.cache
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorAssemblyInfo.cache
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorAssemblyInfo.cs
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\Hello.WebApi.StaticWebAssets.Manifest.cache
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\Hello.WebApi.StaticWebAssets.xml
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hello.WebApi.styles.css
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.TagHelpers.input.cache
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.TagHelpers.output.cache
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorCoreGenerate.cache
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorTargetAssemblyInfo.cache
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorTargetAssemblyInfo.cs
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.Views.pdb
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csproj.CopyComplete
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.dll
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.pdb
+E:\OrderSystemPJ\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.genruntimeconfig.cache
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.exe
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.deps.json
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.runtimeconfig.json
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.runtimeconfig.dev.json
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.pdb
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.Views.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.Views.pdb
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Application.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Data.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Application.pdb
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Data.pdb
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.AssemblyInfo.cs
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\Hello.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\Hello.WebApi.StaticWebAssets.xml
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hello.WebApi.styles.css
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.TagHelpers.input.cache
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.TagHelpers.output.cache
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorCoreGenerate.cache
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.Views.pdb
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csproj.CopyComplete
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.dll
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.pdb
+C:\Users\User\source\repos\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.genruntimeconfig.cache
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.exe
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.deps.json
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.runtimeconfig.json
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.runtimeconfig.dev.json
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.pdb
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.Views.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.Views.pdb
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Application.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Data.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Application.pdb
+C:\Users\User\source\repos\Final project\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Data.pdb
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.AssemblyInfo.cs
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\Hello.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\Hello.WebApi.StaticWebAssets.xml
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hello.WebApi.styles.css
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.TagHelpers.input.cache
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.TagHelpers.output.cache
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorCoreGenerate.cache
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.Views.pdb
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csproj.CopyComplete
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.dll
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.pdb
+C:\Users\User\source\repos\Final project\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.genruntimeconfig.cache
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.exe
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.deps.json
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.runtimeconfig.json
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.runtimeconfig.dev.json
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.pdb
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.Views.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.Views.pdb
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Application.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Data.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Application.pdb
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Data.pdb
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csprojAssemblyReference.cache
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.AssemblyInfoInputs.cache
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.AssemblyInfo.cs
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorAssemblyInfo.cache
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorAssemblyInfo.cs
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\Hello.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\Hello.WebApi.StaticWebAssets.xml
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hello.WebApi.styles.css
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.TagHelpers.input.cache
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.TagHelpers.output.cache
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorCoreGenerate.cache
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorTargetAssemblyInfo.cs
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.Views.pdb
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csproj.CopyComplete
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.pdb
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.exe
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.deps.json
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.pdb
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.Views.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.WebApi.Views.pdb
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Application.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Data.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Application.pdb
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\bin\Debug\netcoreapp3.1\Hello.Data.pdb
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorAssemblyInfo.cache
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorAssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\Hello.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\Hello.WebApi.StaticWebAssets.xml
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hello.WebApi.styles.css
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.TagHelpers.input.cache
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.TagHelpers.output.cache
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorCoreGenerate.cache
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.RazorTargetAssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.Views.pdb
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.pdb
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.WebApi\obj\Debug\netcoreapp3.1\Hello.WebApi.genruntimeconfig.cache

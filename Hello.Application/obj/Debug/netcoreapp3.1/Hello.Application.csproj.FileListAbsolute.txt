@@ -1,0 +1,72 @@
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.deps.json
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.pdb
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Data.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Data.pdb
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csprojAssemblyReference.cache
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.AssemblyInfoInputs.cache
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.AssemblyInfo.cs
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csproj.CopyComplete
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.dll
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.pdb
+C:\Users\KimAnh\source\repos\OrderSystemPJ\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csproj.CoreCompileInputs.cache
+E:\OrderSystemPJ\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.deps.json
+E:\OrderSystemPJ\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.dll
+E:\OrderSystemPJ\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.pdb
+E:\OrderSystemPJ\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Data.dll
+E:\OrderSystemPJ\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Data.pdb
+E:\OrderSystemPJ\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csprojAssemblyReference.cache
+E:\OrderSystemPJ\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.AssemblyInfoInputs.cache
+E:\OrderSystemPJ\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.AssemblyInfo.cs
+E:\OrderSystemPJ\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csproj.CoreCompileInputs.cache
+E:\OrderSystemPJ\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csproj.CopyComplete
+E:\OrderSystemPJ\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.dll
+E:\OrderSystemPJ\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.pdb
+C:\Users\User\source\repos\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.deps.json
+C:\Users\User\source\repos\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.dll
+C:\Users\User\source\repos\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.pdb
+C:\Users\User\source\repos\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Data.dll
+C:\Users\User\source\repos\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Data.pdb
+C:\Users\User\source\repos\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csproj.CopyComplete
+C:\Users\User\source\repos\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.dll
+C:\Users\User\source\repos\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.pdb
+C:\Users\User\source\repos\Final project\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.deps.json
+C:\Users\User\source\repos\Final project\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.dll
+C:\Users\User\source\repos\Final project\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.pdb
+C:\Users\User\source\repos\Final project\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Data.dll
+C:\Users\User\source\repos\Final project\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Data.pdb
+C:\Users\User\source\repos\Final project\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Final project\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Final project\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\Final project\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Final project\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csproj.CopyComplete
+C:\Users\User\source\repos\Final project\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.dll
+C:\Users\User\source\repos\Final project\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.pdb
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.deps.json
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.pdb
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Data.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Data.pdb
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csprojAssemblyReference.cache
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.AssemblyInfoInputs.cache
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.AssemblyInfo.cs
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csproj.CoreCompileInputs.cache
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csproj.CopyComplete
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.dll
+C:\Users\nisha\Dropbox\My PC (Nishat)\Desktop\Final project000\Final project000\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.pdb
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.deps.json
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Application.pdb
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Data.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.Application\bin\Debug\netcoreapp3.1\Hello.Data.pdb
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.dll
+C:\Users\HP\OneDrive\Desktop\Final project000\Final project000\Hello.Application\obj\Debug\netcoreapp3.1\Hello.Application.pdb
